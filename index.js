@@ -47,13 +47,13 @@ function preserveDecimal(string){
     return parseFloat(string, 10);
 }
 
-console.log(add(2,2));
-console.log(subtract(2,1));
+console.log(add(14,2));
+console.log(subtract(20,1));
 console.log(multiply(42,10));
 console.log(divide(9,3));
 
-console.log(increment(7));
-console.log(decrement(7));
-console.log(makeInt('69'));
-console.log(makeInt('Candy'));
-console.log(preserveDecimal('7.777'));
+console.log(increment(9));
+console.log(decrement(9));
+console.log(makeInt('89'));
+console.log(makeInt('Msa'));
+console.log(preserveDecimal('107.8777'));
